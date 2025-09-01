@@ -73,15 +73,15 @@ requests.urllib3.disable_warnings()
 
 # Initial setup and promotion
 os.system('clear')
-print(' \x1b[38;5;46mAHB SERVER LOADING....')
+print(' \x1b[38;5;46mKAMRUL SERVER LOADING....')
 
 
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://chat.whatsapp.com/LSThCyhzhVa58fgXanrcMx?mode=ems_copy_t')
-os.system('xdg-open https://www.facebook.com/BaLoch0654')
+os.system('xdg-open https://whatsapp.com/channel/0029Vb6d5lB6hENw6TLYrO3h')
+os.system('xdg-open https://www.facebook.com/kamrul.hasan.mahi.245994')
 
 
 # --- Anti-tampering and Security Checks ---
@@ -190,7 +190,7 @@ def window1():
 
 
 # Set window title
-sys.stdout.write('\x1b]2;𓆩【A H B 】𓆪 \x07')
+sys.stdout.write('\x1b]2;𓆩【 K A M R U L 】𓆪 \x07')
 
 
     # AHB Clover Logo - Green - Version 2.5
@@ -202,13 +202,12 @@ def ____banner____():
     
     print("""\033[1;32m
         
-           ,-. .-.  .--.          ,---.  .-. .-.,-.      ,---.    .---.    .---.   .---. 
-| |/ /  / /\ \ |\    /|| .-.\ | | | || |      | .-.\  / .-. )  ( .-._) ( .-._)
-| | /  / /__\ \|(\  / || `-'/ | | | || |      | |-' \ | | |(_)(_) \   (_) \   
-| | \  |  __  |(_)\/  ||   (  | | | || |      | |--. \| | | | _  \ \  _  \ \  
-| |) \ | |  |)|| \  / || |\ \ | `-')|| `--.   | |`-' /\ `-' /( `-'  )( `-'  ) 
-|((_)-'|_|  (_)| |\/| ||_| \)\`---(_)|( __.'  /( `--'  )---'  `----'  `----'  
-(_)            '-'  '-'    (__)      (_)     (__)     (_)
+ ██╗  ██╗ █████╗ ███╗   ███╗██████╗ ██╗   ██╗██╗     
+██║ ██╔╝██╔══██╗████╗ ████║██╔══██╗██║   ██║██║     
+█████╔╝ ███████║██╔████╔██║██████╔╝██║   ██║██║     
+██╔═██╗ ██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║██║     
+██║  ██╗██║  ██║██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 \033[0m""")
 
 
